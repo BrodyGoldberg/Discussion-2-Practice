@@ -1,5 +1,5 @@
 /// Your crew's name. Both of you are going to change this line.
-const CREW_NAME: &str = "the unnamed crew";
+const CREW_NAME: &str = "210 Mergers";
 
 /// Your crew's motto. You will both change this one too, earlier and separately.
 const MOTTO: &str = "github is for everyone";
@@ -10,7 +10,7 @@ fn main() {
     println!("Crew roster:");
 
     // ROSTER: replace the line below with one for yourself.
-    println!("  (nobody has signed on yet)");
+    println!("  (I signed - Brody)");
 
     println!();
     println!("Motto: {}", MOTTO);
