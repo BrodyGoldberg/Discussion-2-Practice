@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+210 Mergers
 
 ## Members
 
-- _nobody has signed on yet_
+Brody Goldberg
